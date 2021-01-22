@@ -1,4 +1,10 @@
 ### Hi there 👋
+# I'm Chase杨念 You Can Call me yangnian
+# I'm a Grade9 Student......
+# OwO
+[![YangNian's github stats](https://github-readme-stats.vercel.app/api?username=Little-Yangnian)](https://github.com/Little-YangNian/github-readme-stats)  
+## Thank You for you found me.
+
 
 <!--
 **Little-YangNian/Little-YangNian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
