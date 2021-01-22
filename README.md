@@ -4,8 +4,8 @@
 > now i am going to take the senior high school entrance examination  
 > i also a boarders  
 > so i have not lots time to study coding and contribution project  
-[![YangNian's github stats](https://github-readme-stats.vercel.app/api?username=little-yangnian&locale=cn)](https://github.com/little-yangnian)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-yangnian)](https://github.com/little-yangnian)  
+[![YangNian's github stats](https://github-readme-stats.vercel.app/api?username=little-yangnian&show_icons=true&locale=cn&bg_color=696969)](https://github.com/little-yangnian)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=little-yangnian&show_icons=true&locale=cn&bg_color=696969)](https://github.com/little-yangnian)  
 [Powerd By anuraghazra](https://github-readme-stats.vercel.app)  
 # OwO 🎉 Welcome to my broken station(Baidu translate.....)
 ## [Blog](https://yangnian.top)
