@@ -2,7 +2,9 @@
 # I'm Chase杨念 You Can Call me yangnian
 # I'm a Grade9 Student......
 # OwO
-[![Anurag's github stats](https://readme-stats.little-yangnian.vercel.app/api/?username=Little-YangNian&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![YangNian's github stats](https://github-readme-stats.vercel.app/api?username=little-yangnian&locale=cn)](https://github.com/little-yangnian)  
+[Powerd By anuraghazra](https://github-readme-stats.vercel.app)
+
 ## Thank You for you found me.
 
 
