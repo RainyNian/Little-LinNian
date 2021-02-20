@@ -2,7 +2,6 @@
 # I'm Chase杨念 You Can Call me YangNian
 # I'm a junior school  Student......  
 # Furry !!!! 
-[![这是个模板图](https://hexo-1302360504.cos.ap-hongkong.myqcloud.com/avatar.png)](https://hexo-1302360504.cos.ap-hongkong.myqcloud.com/avatar.png)
 ## Yes I am Furry owo  
 > now i am going to take the senior high school entrance examination  
 > i also a boarders  
