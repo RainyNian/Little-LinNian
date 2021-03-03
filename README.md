@@ -6,11 +6,11 @@
 > now i am going to take the senior high school entrance examination  
 > i also a boarders  
 > so i have not lots time to study coding and contribution project  
-[![YangNian's github stats](https://github-readme-stats.vercel.app/api?username=little-yangnian&show_icons=true&locale=cn&bg_color=87CEEB&text_color=708090)](https://github.com/little-yangnian)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=little-yangnian&show_icons=true&locale=cn&bg_color=87CEEB&text_color=708090)](https://github.com/little-yangnian)  
+[![LinNian's github stats](https://github-readme-stats.vercel.app/api?username=ChaseOnion&show_icons=true&locale=cn&bg_color=87CEEB&text_color=708090)](https://github.com/ChaseOnion)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=little-ChaseOnion&show_icons=true&locale=cn&bg_color=87CEEB&text_color=708090)](https://github.com/ChaseOnion)  
 [Powerd By anuraghazra](https://github-readme-stats.vercel.app)  
 # OwO 🎉 Welcome to my broken station(Baidu translate.....)
-## [Blog](https://yangnian.top)
+## [Blog](https://furrynian.top)
 ## Thank You for you found me.
 
 <!--
