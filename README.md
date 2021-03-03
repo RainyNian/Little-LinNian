@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Chase杨念 You Can Call me YangNian
+# I'm LinNian(霖念) ~and You Can Call me 0Nian(0念)~
 # I'm a junior school  Student......  
 # Furry !!!! 
 ## Yes I am Furry owo  
