@@ -9,6 +9,7 @@
 [![LinNian's github stats](https://github-readme-stats.vercel.app/api?username=Little-LinNian&show_icons=true&locale=cn&bg_color=87CEEB&text_color=708090)](https://github.com/Little-LinNian)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Little-LinNian&show_icons=true&locale=cn&bg_color=87CEEB&text_color=708090)](https://github.com/Little-LinNian)  
 [Powerd By anuraghazra](https://github-readme-stats.vercel.app)  
+![Metrics](https://metrics.lecoq.io/Little-LinNian?template=classic&config.timezone=Asia%2FShanghai)  
 # OwO 🎉 Welcome to my broken station(Baidu translate.....)
 ## [Blog](https://furrynian.top)
 ## Thank You for you found me.
