@@ -1,9 +1,8 @@
 ### Hi there 👋
 # I'm LinNian(霖念) ~and You Can Call me 0Nian(0念)~
-# I'm a junior school  Student......  
+# I'm a senior school  Student......  
 # Furry !!!! 
 ## Yes I am Furry owo  
-> now i am going to take the senior high school entrance examination  
 > i also a boarders  
 > so i have not lots time to study coding and contribution project  
 [![LinNian's github stats](https://github-readme-stats.vercel.app/api?username=Little-LinNian&show_icons=true&locale=cn&bg_color=87CEEB&text_color=708090)](https://github.com/Little-LinNian)  
